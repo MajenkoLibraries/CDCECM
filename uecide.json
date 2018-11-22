@@ -1,0 +1,17 @@
+{
+    "name": "CDCECM",
+    "provides": "CDCECM.h",
+    "license": "LICENSE.md",
+    "readme": "README.md",
+    "description": "USB Ethernet emulation for chipKIT",
+    "category": "Communications",
+    "subcategory": "Networking",
+    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
+    "version": "1.0.0",
+    "family": "pic32",
+    "core": "chipkit",
+    "install": {
+        "CDCECM.cpp": "/",
+        "CDCECM.h": "/"
+    }
+}
